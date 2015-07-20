@@ -2,7 +2,7 @@
 lock '3.2.1'
 
 set :application, 'social'
-set :repo_url, 'https://github.com/yourname/social.git'
+set :repo_url, 'https://github.com/thedoor10/social.git'
 
 # Default branch is :master
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }.call
